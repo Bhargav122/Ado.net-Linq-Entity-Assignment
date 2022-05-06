@@ -1,0 +1,8 @@
+D:\csharp\ConnectedDisconneted\ConnectedDisconneted\obj\Debug\ConnectedDisconneted.csproj.AssemblyReference.cache
+D:\csharp\ConnectedDisconneted\ConnectedDisconneted\obj\Debug\ConnectedDisconneted.csproj.SuggestedBindingRedirects.cache
+D:\csharp\ConnectedDisconneted\ConnectedDisconneted\obj\Debug\ConnectedDisconneted.csproj.CoreCompileInputs.cache
+D:\csharp\ConnectedDisconneted\ConnectedDisconneted\bin\Debug\ConnectedDisconneted.exe.config
+D:\csharp\ConnectedDisconneted\ConnectedDisconneted\bin\Debug\ConnectedDisconneted.exe
+D:\csharp\ConnectedDisconneted\ConnectedDisconneted\bin\Debug\ConnectedDisconneted.pdb
+D:\csharp\ConnectedDisconneted\ConnectedDisconneted\obj\Debug\ConnectedDisconneted.exe
+D:\csharp\ConnectedDisconneted\ConnectedDisconneted\obj\Debug\ConnectedDisconneted.pdb
